@@ -9,6 +9,5 @@
 4. imgix - Image CDN - https://imgix.com/
 
 5. verexif - Show and Remove image metadata - https://www.verexif.com/en/
-    
 
-
+6. Minifier - Minify CSS and JS - https://www.minifier.org/
