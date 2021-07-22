@@ -4,7 +4,7 @@
 
 2. Tinypng - Reduce png - https://tinypng.com/photoshop
 
-3. 
+3. JPEG-Optimizer - Reduce Jpeg - http://jpeg-optimizer.com/
     
 
 
