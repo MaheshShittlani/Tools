@@ -11,3 +11,8 @@
 5. verexif - Show and Remove image metadata - https://www.verexif.com/en/
 
 6. Minifier - Minify CSS and JS - https://www.minifier.org/
+
+7. Page Speed Test - https://developers.google.com/speed/pagespeed/insights/
+
+8. Web page test - https://www.webpagetest.org/
+
